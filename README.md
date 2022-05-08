@@ -1,7 +1,7 @@
 # Inbox Smart Contract
 Simple smart contract project for demonstrating inbox-like message application using Solidity and NodeJS.
 
-For development purposes, this projects uses** Rinkeby Ethereum Network** and **Infura**.
+For development purposes, this projects uses **Rinkeby Ethereum Network** and **Infura**.
 
 ## File Structure
 **Contracts** folder contains the main smart contract written in Solidity. You can view and edit the code for your own use cases.
